@@ -22,6 +22,23 @@ Voce nao precisa instalar Git para usar este projeto.
 
 Existem tres formas principais de receber ou baixar o programa.
 
+### Download Pronto Para Windows
+
+Se voce quer apenas usar o programa, baixe a versao pronta:
+
+```text
+https://github.com/Defactus/Price/releases/download/v1.0.0/PriceComparer-Windows.zip
+```
+
+Depois de baixar:
+
+1. Clique com o botao direito no arquivo `PriceComparer-Windows.zip`.
+2. Escolha `Extrair tudo`.
+3. Abra a pasta `PriceComparer`.
+4. De dois cliques em `PriceComparer.exe`.
+
+Mantenha o `PriceComparer.exe` junto com a pasta `_internal`.
+
 ### Opcao A: Receber a Pasta Pronta
 
 Esta e a forma mais simples para usuarios comuns.
